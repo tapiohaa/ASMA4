@@ -1,0 +1,18 @@
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] GenericML_0.1.1    xgboost_1.5.0.2    ranger_0.13.1      mlr3learners_0.5.1 mlr3tuning_0.9.0   paradox_0.7.1     
+ [7] mlr3_0.13.0        MatchIt_4.3.2      broom_0.7.10       lfe_2.8-7.1        Matrix_1.3-2       stargazer_5.2.2   
+[13] smd_0.6.6          openxlsx_4.2.5     patchwork_1.1.1    ggplot2_3.3.5      readxl_1.3.1       data.table_1.14.2 
+
+loaded via a namespace (and not attached):
+ [1] zoo_1.8-9            tidyselect_1.1.1     purrr_0.3.4          listenv_0.8.0        lattice_0.20-41      colorspace_2.0-2    
+ [7] vctrs_0.3.8          generics_0.1.1       bbotk_0.4.0          utf8_1.2.2           rlang_0.4.12         pillar_1.6.4        
+[13] glue_1.5.1           withr_2.4.3          palmerpenguins_0.1.0 uuid_1.0-3           lifecycle_1.0.1      munsell_0.5.0       
+[19] gtable_0.3.0         cellranger_1.1.0     zip_2.2.0            future_1.23.0        codetools_0.2-18     parallel_4.0.5      
+[25] fansi_0.5.0          Rcpp_1.0.7           xtable_1.8-4         scales_1.1.1         backports_1.4.1      checkmate_2.0.0     
+[31] jsonlite_1.7.2       parallelly_1.29.0    digest_0.6.29        stringi_1.7.6        dplyr_1.0.7          grid_4.0.5          
+[37] tools_4.0.5          sandwich_3.0-1       magrittr_2.0.1       tibble_3.1.6         Formula_1.2-4        mlr3misc_0.9.5      
+[43] crayon_1.4.2         tidyr_1.1.4          pkgconfig_2.0.3      MASS_7.3-53.1        ellipsis_0.3.2       lgr_0.4.3           
+[49] R6_2.5.1             globals_0.14.0       compiler_4.0.5      
