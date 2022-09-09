@@ -2,7 +2,7 @@
 
 Article: “Reminders, Cost Sharing, and Healthcare Use” (Haaga, Sääksvuori, and Tervola, 2022)
 
-Pre-analysis plan: (LINK WILL BE AVAILABLE HERE)
+Pre-analysis plan: https://osf.io/g72b5/
 
 Date: April 2022 <br>
 
