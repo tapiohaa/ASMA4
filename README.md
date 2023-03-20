@@ -1,10 +1,10 @@
 # README for replication files 
 
-Article: “Nudging Null Effects: Reminders Did Not Induce Primary Health Care Utilization” (Haaga, Sääksvuori, and Tervola, 2023)
+Article: “Reminders, Cost Sharing, and Healthcare Use” (Haaga, Sääksvuori, and Tervola, 2022)
 
-Version 1 (latest), populated pre-analysis plan (PAP), and PAP: https://osf.io/g72b5/
+Pre-analysis plan: https://osf.io/g72b5/
 
-Date: March 2023 <br>
+Date: April 2022 <br>
 
 
 ## The contents
@@ -13,7 +13,7 @@ This replication folder contains the statistical programs used to clean the data
 
 ## Access to the data
 
-Getting access to the trial data is crucial for any replication attempt. There is one clearly restrictive factor making replications more difficult (or even impossible after our data permits expire): the data permits are only temporary in Finland. Currently, our permits are valid to the end of 2024 after which all data will be deleted from the Fiona remote access environment. We are not sure how the data permit process would work with respect to the trial data. If you are planning a replication, have enough resources and are willing to cooperate, please contact us at least six months before our data permits expire so that we will have time to renew them and clarify to ourselves how the data permit process should be done.
+Getting access to the trial data is crucial for any replication attempt. There is one clearly restrictive factor making replications more difficult (or even impossible after our data permits expire): the data permits are only temporary in Finland. Currently, our permits are valid to the end of 2024 after which all data will be deleted from the Fiona remote access environment. If you are planning a replication, have enough resources and are willing to cooperate, please contact us at least six months before our data permits expire so that we will have time to renew them. 
 
 For the other sensitive datasets, the procedures are more clear and established. Two data permit applications must be sent: one to Findata and another to Statistics Finland. The former grants permits to Finnish healthcare data while the latter provides the socioeconomic and sociodemographic data used in the study. The higher the quality of the initial submission, the shorter it takes to get an approval. Once the data permits are approved, the data controllers (THL and Kela in this study) transfer their data to Statistics Finland for pseudonymization. Researchers get access to the pseudonymized data for a fixed period of time via Fiona, a remote access system provided by Statistics Finland.
 
