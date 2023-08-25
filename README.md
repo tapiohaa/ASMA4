@@ -1,10 +1,10 @@
 # README for replication files 
 
-Article: “Nudging Null Effects: Reminders Did Not Induce Primary Health Care Utilization” (Haaga, Sääksvuori, and Tervola, 2023)
+Article: “The Impact of an Informational Campaign on Primary Care Utilization among Older Citizens: Evidence from a Randomized Field Experiment” (Haaga, Sääksvuori, and Tervola, 2023)
 
-Version 1 (latest), populated pre-analysis plan, and pre-analysis plan: https://osf.io/g72b5/
+Version 2 (latest), version 1, populated pre-analysis plan, and pre-analysis plan: https://osf.io/g72b5/
 
-Date: March 2023 <br>
+Date: August 2023 <br>
 
 
 ## The contents
